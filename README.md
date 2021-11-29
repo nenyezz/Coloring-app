@@ -1,6 +1,10 @@
 
 
-# Paint World
+# Paint 
+
+paintworld.netlify.app
+
+landing page paintworldlanding.netlify.app
 Made with react
 
 Description
@@ -19,3 +23,6 @@ Type npm install to install all dependencies
 Last, but not least, type npm start to run the app locally.
 
 To look at the code, just open up the project in your favorite code editor!
+
+Made solely by Chinenye Obasi
+twitter.com/uchecodess
